@@ -1,3 +1,3 @@
 # Assessment
-There is 2 files, A fan class and the driver class
-/nI coded my solution on my pc and then uploaded it to github, if any questions feel free to ask :)
+There are 2 files, A fan class and a driver class.
+I coded my solution on my PC and then uploaded it to GitHub, if any questions feel free to ask :)
